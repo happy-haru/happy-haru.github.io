@@ -29,13 +29,9 @@ navigation:
   - text: Home
     url: /
   - text: Blog
-    url: /
+    url: https://ryusg716.tistory.com/
   - text: About
     url: /about/
-  - text: Projects
-    url: /projects/
-  - text: Tags
-    url: /tags/
 
 # The shortname for your Disqus site to enable comments.
 # disqus: 

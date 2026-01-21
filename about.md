@@ -1,16 +1,26 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
+title: About Me
+description: 생명과 데이터를 잇는 연구개발자 happy-haru입니다.
 feature_image: images/about.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+## 💡 생명과 데이터를 잇는 연구개발자입니다.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+**happy-haru**는 데이터 안에 숨겨진 답을 찾아내는 것을 즐기는 연구개발자입니다.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+### 🙋‍♂️ About Me
+- 🧪 생체신호 처리 및 텍스트 마이닝에 열정을 가진 데이터 기반 연구개발자입니다.
+- 🫀 최근에는 심장 자기 신호 검출 및 분석 알고리즘 개발을 중심으로 헬스케어 데이터를 다루고 있습니다.
+- 📚 이전에는 텍스트 마이닝을 통해 유전자/질병/화학물질 관계 추출 프로젝트를 수행했습니다.
+- 🤝 문제 해결 중심의 사고와 협업을 통해 데이터로 인사이트를 찾는 과정을 즐깁니다.
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+### 💬 Motto
+> “데이터 안에 답이 있다면, 저는 그걸 꺼내오는 사람입니다.”
 
-*Thank You for reading!*
+### 🏄‍♂️ 안티그래비티와 함께하는 웹 빌딩
+요즘은 **Antigravity IDE** 위에서 경계 없는 웹사이트 빌딩을 즐기고 있습니다. 머릿속 아이디어를 빠르게 웹으로 실체화하며, 저만의 '디지털 놀이터'를 만들어가고 있습니다.
+
+---
+
+[GitHub 프로필 보러가기](https://github.com/happy-haru)
